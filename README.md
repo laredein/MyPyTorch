@@ -5,7 +5,7 @@
 
 2.Дана бібліотtка підтримую сгортку (слої Conv2d,Maxpool2d,Flatten)
 
-3.В данії бібліотеці наявні базові функції активації(Relu,PRelu,Linear,SigmoisTanh,LogSigmoid)
+3.В данії бібліотеці наявні базові функції активації(Relu,PRelu,Linear,SigmoidTanh,LogSigmoid)
 
 4.MSE та Crossenthropy loss
 
